@@ -1,6 +1,11 @@
 body {
+    font-family: "Arian AMU", ArianAMU, "Arial Unicode";
     padding-top: 20px;
     padding-bottom: 40px;
+}
+
+h2 {
+    letter-spacing: 1px;
 }
 
 /* Custom container */
